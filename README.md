@@ -1,4 +1,4 @@
-# macOS-Drive-Health
+# macOS Drive Health
 Check drive health in macOS with one Terminal command
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/MacMiniVault/macOS-Drive-Health/main/drivehealth.sh)
